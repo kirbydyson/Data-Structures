@@ -1,0 +1,3 @@
+C:/Users/kdyso/CLionProjects/Project0_UndoRedo/cmake-build-debug/CMakeFiles/Project0_UndoRedo.dir
+C:/Users/kdyso/CLionProjects/Project0_UndoRedo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kdyso/CLionProjects/Project0_UndoRedo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
