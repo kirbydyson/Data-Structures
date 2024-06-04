@@ -1,0 +1,3 @@
+C:/Users/kdyso/CLionProjects/Project5_OS/cmake-build-debug/CMakeFiles/Project5_OS.dir
+C:/Users/kdyso/CLionProjects/Project5_OS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kdyso/CLionProjects/Project5_OS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
