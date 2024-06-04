@@ -1,0 +1,3 @@
+C:/Users/kdyso/CLionProjects/Project4_BalancedTreeBasedCryption/cmake-build-debug/CMakeFiles/Project4_BalancedTreeBasedCryption.dir
+C:/Users/kdyso/CLionProjects/Project4_BalancedTreeBasedCryption/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kdyso/CLionProjects/Project4_BalancedTreeBasedCryption/cmake-build-debug/CMakeFiles/rebuild_cache.dir
