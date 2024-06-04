@@ -1,0 +1,3 @@
+C:/Users/kdyso/CLionProjects/Project2_WordMelt/cmake-build-debug/CMakeFiles/Project2_WordMelt.dir
+C:/Users/kdyso/CLionProjects/Project2_WordMelt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kdyso/CLionProjects/Project2_WordMelt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
