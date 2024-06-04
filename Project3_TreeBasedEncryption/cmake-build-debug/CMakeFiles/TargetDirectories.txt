@@ -1,0 +1,3 @@
+C:/Users/kdyso/CLionProjects/Project3_TreeBasedEncryption/cmake-build-debug/CMakeFiles/Project3_TreeBasedEncryption.dir
+C:/Users/kdyso/CLionProjects/Project3_TreeBasedEncryption/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kdyso/CLionProjects/Project3_TreeBasedEncryption/cmake-build-debug/CMakeFiles/rebuild_cache.dir
